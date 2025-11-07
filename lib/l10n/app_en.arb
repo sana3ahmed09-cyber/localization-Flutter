@@ -1,0 +1,6 @@
+{
+  "@@locale": "en",
+  "title": "Welcome",
+  "message": "Hello, how are you?",
+  "messageDescription": "Greeting message displayed on the home screen."
+}

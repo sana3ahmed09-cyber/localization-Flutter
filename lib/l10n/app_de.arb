@@ -1,0 +1,6 @@
+{
+  "@@locale": "de",
+  "title": "Willkommen",
+  "message": "Hallo, wie geht es dir?",
+  "messageDescription": "Begrüßungsnachricht, die auf dem Startbildschirm angezeigt wird."
+}

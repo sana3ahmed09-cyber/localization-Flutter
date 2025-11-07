@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "title": "Bienvenue",
+  "message": "Bonjour, comment ça va ?",
+  "messageDescription": "Message de salutation affiché sur l'écran d'accueil."
+}
